@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: opentest4j-1.2.0.jar junit-platform-commons-1.9.1.jar apigua
+ rdian-api-1.1.2.jar junit-platform-engine-1.9.1.jar pitest-junit5-plugi
+ n-1.2.1.jar junit-platform-launcher-1.9.2.jar
+Main-Class: no.uib.inf101.minesweeper.Main
+Created-By: Maven Integration for Eclipse
+
